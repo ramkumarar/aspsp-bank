@@ -2,8 +2,8 @@ server:
    port: 8090
 ibm:
    oburl: https://api.eu.apiconnect.ibmcloud.com/cmarcoliukibmcom-open-banking-aggregator/rw-sandbox-production/open-banking-demo
-   clientid: 4dd83c32-307d-4ede-9a5a-696900154fae
-   clientsecret: mA8rL3qW5mF7oE0bV5xM3pT8qX3bA2mV7lK1oK7wL6dS6oP2eL
+   clientid: 
+   clientsecret: 
 spring:
   h2:
     console:
